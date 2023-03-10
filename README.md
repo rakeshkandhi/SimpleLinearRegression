@@ -1,1 +1,1 @@
-"# SimpleLinearRegression" 
+Simple Linear Regression on Salary dataset 
